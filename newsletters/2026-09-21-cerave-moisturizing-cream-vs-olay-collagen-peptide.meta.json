@@ -1,0 +1,14 @@
+{
+  "suggestedSubject": "Head to head: CeraVe Moisturizing Cream vs. Olay Collagen Peptide Face Moisturizer",
+  "previewText": "Both are fragrance-free moisturizers, but they fill different roles. CeraVe is a 19-ounce face-and-body cream positioned for dry skin and a simple daily routine",
+  "fromName": "Pause & Flourish",
+  "fromAddress": "hello@pauseandflourish.com",
+  "listName": "Pause & Flourish newsletter list",
+  "articleUrl": "https://pauseandflourish.com/comparison/cerave-moisturizing-cream-vs-olay-collagen-peptide",
+  "publishedDate": "2026-09-21",
+  "articleTitle": "CeraVe Moisturizing Cream vs. Olay Collagen Peptide Face Moisturizer",
+  "articleSource": "client/src/lib/products.ts (comparisons)",
+  "recordType": "comparison",
+  "stagedAt": "2026-09-22T17:27:39.778Z",
+  "note": "Create and send this campaign manually in Klaviyo. This workflow never calls any email API."
+}
