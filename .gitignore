@@ -123,3 +123,4 @@ client/public/__manus__/version.json
 
 # Local Netlify folder
 .netlify
+.claude/settings.local.json
