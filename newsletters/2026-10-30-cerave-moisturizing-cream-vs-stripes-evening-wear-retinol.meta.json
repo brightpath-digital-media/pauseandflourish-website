@@ -1,0 +1,14 @@
+{
+  "suggestedSubject": "Head to head: CeraVe Moisturizing Cream vs. STRIPES Evening Wear Retinol Night Cream",
+  "previewText": "These two products cover different steps in a skincare routine. CeraVe Moisturizing Cream is described on its listing as a fragrance-free, non-comedogenic face-",
+  "fromName": "Pause & Flourish",
+  "fromAddress": "hello@pauseandflourish.com",
+  "listName": "Pause & Flourish newsletter list",
+  "articleUrl": "https://pauseandflourish.com/comparison/cerave-moisturizing-cream-vs-stripes-evening-wear-retinol",
+  "publishedDate": "2026-10-30",
+  "articleTitle": "CeraVe Moisturizing Cream vs. STRIPES Evening Wear Retinol Night Cream",
+  "articleSource": "client/src/lib/products.ts (comparisons)",
+  "recordType": "comparison",
+  "stagedAt": "2026-11-03T19:54:24.989Z",
+  "note": "Create and send this campaign manually in Klaviyo. This workflow never calls any email API."
+}
