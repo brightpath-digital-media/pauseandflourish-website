@@ -2768,6 +2768,25 @@ export function getCategoryBySlug(slug: string): Category | undefined {
 // ─── Comparisons ─────────────────────────────────────────────────────────────
 
 export const comparisons: Comparison[] = [
+  // ── New Comparison: 2026-11-05 ───────────────────────────────────────────
+  {
+    id: "degrees-of-comfort-cooling-blanket-vs-chill-pal-cooling-towel",
+    slug: "degrees-of-comfort-cooling-blanket-vs-chill-pal-cooling-towel",
+    title: "Degrees of Comfort Cooling Blanket vs. Chill Pal Mesh Cooling Towel",
+    subtitle: "A king-size, non-powered cooling blanket for the bed or couch versus a compact, wet-activated cooling towel you can carry",
+    category: "Hot Flash & Cooling",
+    categorySlug: "hot-flash-cooling",
+    productIds: ["choshome-cooling-blanket", "cooling-towel-chill-pal"],
+    product1Id: "choshome-cooling-blanket",
+    product2Id: "cooling-towel-chill-pal",
+    winner: "choshome-cooling-blanket",
+    winnerId: "choshome-cooling-blanket",
+    winnerReason: "The Degrees of Comfort blanket is the clearer fit for shoppers whose main goal is a cooler-feeling place to sleep or rest, because the committed record describes a king-size, non-powered blanket that stays on the bed or couch without setup. The Chill Pal towel is the better fit for shoppers who want something small enough to keep in a bag or on a nightstand and who do not mind wetting it first. These are comfort items, not treatments, and they do not replace advice from a clinician about frequent or severe symptoms.",
+    summary: "These two products cool a different part of the day. The Degrees of Comfort blanket is cataloged as a 108 x 90 inch king-size, non-powered cooling blanket in a Q-Max PolarEdge nylon and polyethylene fabric that the listing describes as lightweight, breathable, and machine washable; it replaced a discontinued CHOSHOME model on this site and is not the product originally reviewed. The Chill Pal is cataloged as a compact mesh cooling towel that needs water to activate, and its record notes the cooling fades as the towel dries. The practical comparison is bedding that stays in place for hours versus a small towel you reach for in a moment.",
+    verdict: "Choose the Degrees of Comfort blanket if the goal is a cooler layer over a whole bed or couch. Choose the Chill Pal towel if a portable, on-demand option for the desk, gym bag, or nightstand is the better fit. Some shoppers could reasonably use both. Check the listing for the size and care instructions before ordering, and talk with a qualified clinician about frequent or severe symptoms.",
+    publishDate: "2026-11-05",
+    authorId: "carol-beaumont",
+  },
   // ── New Comparison: 2026-10-30 ───────────────────────────────────────────
   {
     id: "cerave-moisturizing-cream-vs-stripes-evening-wear-retinol",
