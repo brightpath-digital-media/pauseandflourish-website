@@ -1671,7 +1671,7 @@ For women who want a non-hormonal, non-habit-forming sleep-support supplement wi
   // ── Hot Flash & Cooling ────────────────────────────────────────────────────
   {
     id: "cooling-towel-chill-pal",
-    isDietarySupplement: true,
+    isDietarySupplement: false,
     slug: "chill-pal-mesh-cooling-towel",
     name: "Chill Pal Mesh Cooling Towel",
     brand: "Chill Pal",
@@ -1689,7 +1689,6 @@ For women who want a non-hormonal, non-habit-forming sleep-support supplement wi
       "12 x 40 inch size",
       "Activated with water, no power needed",
       "Compact and portable — fits in a purse",
-      "Excellent value at under $10",
     ],
     cons: [
       "Requires water to activate",
