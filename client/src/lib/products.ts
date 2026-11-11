@@ -1702,7 +1702,7 @@ For women who want a non-hormonal, non-habit-forming sleep-support supplement wi
     bestFor: "A portable, wet-activated cooling towel",
     tags: ["cooling", "hot flashes", "portable"],
     shortDescription: "A compact, wet-activated cooling towel in a 12 x 40 inch size, easy to keep at a desk, in a gym bag, or on a nightstand.",
-    fullReview: "The Chill Pal Mesh Cooling Towel is listed as a 12 x 40 inch mesh towel that needs water to activate. It folds down small enough to carry in a purse or keep at a desk, in a gym bag, or on a nightstand.\n\nTwo limits are worth knowing before you buy. It has to be wetted to work, and the cooling effect fades as the towel dries, so it suits short stretches of use more than a long evening.\n\nThis is a comfort item, not a treatment. Anyone with frequent or severe hot flashes or night sweats should talk with a qualified clinician about their symptoms.",
+    fullReview: "The Chill Pal Mesh Cooling Towel is listed as a 12 x 40 inch mesh towel that needs water to activate. It is compact enough for a purse and easy to keep at a desk, in a gym bag, or on a nightstand.\n\nTwo limits are worth knowing before you buy. It has to be wetted to work, and the cooling effect fades as the towel dries.\n\nThis is a comfort item, not a treatment. Anyone with frequent or severe hot flashes or night sweats should talk with a qualified clinician about their symptoms.",
     priceDisplay: "$14.97",
     availability: "Chill Pal listing active and re-verified on 2026-10-18",
     publishDate: "2026-05-02",
