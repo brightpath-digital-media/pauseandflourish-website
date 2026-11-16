@@ -2767,6 +2767,25 @@ export function getCategoryBySlug(slug: string): Category | undefined {
 // ─── Comparisons ─────────────────────────────────────────────────────────────
 
 export const comparisons: Comparison[] = [
+  // ── New Comparison: 2026-11-16 ───────────────────────────────────────────
+  {
+    id: "cani-sleep-spray-vs-nobi-magnesium-glycinate",
+    slug: "cani-sleep-spray-vs-nobi-magnesium-glycinate",
+    title: "Can-i Sleep Spray vs. Nobi Nutrition Magnesium Glycinate",
+    subtitle: "A multi-ingredient oral sleep spray versus a single-ingredient magnesium capsule for an evening routine",
+    category: "Sleep & Mood Support",
+    categorySlug: "sleep-mood-support",
+    productIds: ["cani-sleep-menopause-sleep-spray", "magnesium-glycinate-sleep"],
+    product1Id: "cani-sleep-menopause-sleep-spray",
+    product2Id: "magnesium-glycinate-sleep",
+    winner: "magnesium-glycinate-sleep",
+    winnerId: "magnesium-glycinate-sleep",
+    winnerReason: "The Nobi Nutrition capsule is the simpler fit for shoppers who want a single listed ingredient in an easy-to-review capsule. The Can-i Sleep spray is the better fit for shoppers who prefer a spray and are comfortable reviewing a longer ingredient list that includes melatonin. These are supplements, not treatments, and they do not replace advice from a clinician about ongoing sleep problems.",
+    summary: "These two products take different approaches to a nighttime routine. Can-i Sleep is cataloged as a two-pack, 60-serving oral spray that lists melatonin, GABA, 5-HTP, valerian root, hops, passion flower, peppermint leaf, and skullcap. Nobi Nutrition Magnesium Glycinate is cataloged as a capsule with magnesium glycinate as its listed ingredient. The practical comparison is a multi-ingredient spray format versus a single-ingredient capsule, which also changes how much there is to check against your own medications and health history.",
+    verdict: "Choose the Nobi Nutrition capsule if you want a simpler ingredient list and prefer capsules. Choose the Can-i Sleep spray if you prefer a spray format and have reviewed its full ingredient list, including melatonin, with a pharmacist or clinician. Check each listing for current ingredients, serving size, and directions before ordering, and talk with a qualified clinician about ongoing sleep problems or if you take other medications.",
+    publishDate: "2026-11-16",
+    authorId: "carol-beaumont",
+  },
   // ── New Comparison: 2026-11-05 ───────────────────────────────────────────
   {
     id: "degrees-of-comfort-cooling-blanket-vs-chill-pal-cooling-towel",
