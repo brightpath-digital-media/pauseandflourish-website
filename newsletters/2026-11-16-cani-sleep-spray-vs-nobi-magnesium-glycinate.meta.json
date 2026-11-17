@@ -1,0 +1,14 @@
+{
+  "suggestedSubject": "Head to head: Can-i Sleep Spray vs. Nobi Nutrition Magnesium Glycinate",
+  "previewText": "These two products take different approaches to a nighttime routine. Can-i Sleep is cataloged as a two-pack, 60-serving oral spray that lists melatonin, GABA, 5",
+  "fromName": "Pause & Flourish",
+  "fromAddress": "hello@pauseandflourish.com",
+  "listName": "Pause & Flourish newsletter list",
+  "articleUrl": "https://pauseandflourish.com/comparison/cani-sleep-spray-vs-nobi-magnesium-glycinate",
+  "publishedDate": "2026-11-16",
+  "articleTitle": "Can-i Sleep Spray vs. Nobi Nutrition Magnesium Glycinate",
+  "articleSource": "client/src/lib/products.ts (comparisons)",
+  "recordType": "comparison",
+  "stagedAt": "2026-11-17T21:27:14.919Z",
+  "note": "Create and send this campaign manually in Klaviyo. This workflow never calls any email API."
+}
