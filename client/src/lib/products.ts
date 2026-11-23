@@ -2767,6 +2767,25 @@ export function getCategoryBySlug(slug: string): Category | undefined {
 // ─── Comparisons ─────────────────────────────────────────────────────────────
 
 export const comparisons: Comparison[] = [
+  // ── New Comparison: 2026-11-23 ───────────────────────────────────────────
+  {
+    id: "sports-research-collagen-peptides-vs-meno-collagen-protein",
+    slug: "sports-research-collagen-peptides-vs-meno-collagen-protein",
+    title: "Sports Research Collagen Peptides vs. MENO Healthy Aging Collagen & Protein",
+    subtitle: "An unflavored single-ingredient collagen powder versus a chocolate-brownie powder that adds protein and micronutrients",
+    category: "Menopause Skincare",
+    categorySlug: "menopause-skincare",
+    productIds: ["sports-research-collagen-peptides", "meno-healthy-aging-collagen-protein"],
+    product1Id: "sports-research-collagen-peptides",
+    product2Id: "meno-healthy-aging-collagen-protein",
+    winner: "sports-research-collagen-peptides",
+    winnerId: "sports-research-collagen-peptides",
+    winnerReason: "Sports Research is the simpler fit for shoppers who want an unflavored powder with a single listed ingredient, hydrolyzed bovine collagen peptides, that can be stirred into hot or cold drinks. MENO is the better fit for shoppers who want a flavored powder that also lists protein and 16 vitamins and minerals and who are comfortable reviewing a longer ingredient list. These are dietary supplements, not treatments, and they do not replace advice from a clinician.",
+    summary: "These two powders take different approaches to a daily collagen routine. Sports Research Collagen Peptides is cataloged as an unflavored powder whose listed ingredient is hydrolyzed bovine collagen peptides, 11g, with Type I and III collagen noted in the record. MENO Healthy Aging Collagen & Protein from O Positiv is cataloged as a chocolate-brownie powder that lists 10g of collagen peptides, 11g of protein, and 16 vitamins and minerals per serving, with 15 servings per container. The practical comparison is a plain, single-ingredient collagen powder versus a flavored all-in-one powder, which also changes how much there is to check against your own diet, allergies, and medications.",
+    verdict: "Choose Sports Research if you want an unflavored collagen powder with one listed ingredient. Note that its record says it is bovine sourced, so it is not suitable for vegans or vegetarians. Choose MENO if you want a flavored collagen-and-protein powder with added vitamins and minerals and have reviewed the full ingredient list. Check each listing for current ingredients, serving size, and directions before ordering, and talk with a pharmacist or qualified clinician first if you take medications, have allergies or a medical condition, or are pregnant or nursing.",
+    publishDate: "2026-11-23",
+    authorId: "carol-beaumont",
+  },
   // ── New Comparison: 2026-11-16 ───────────────────────────────────────────
   {
     id: "cani-sleep-spray-vs-nobi-magnesium-glycinate",
